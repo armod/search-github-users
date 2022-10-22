@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/serach-github-users/static/css/main.3438a0b5.css",
-    "main.js": "/serach-github-users/static/js/main.230eef36.js",
-    "static/media/preloader.gif": "/serach-github-users/static/media/preloader.a6525050b19ec22d72cd.gif",
-    "static/media/login-img.svg": "/serach-github-users/static/media/login-img.cd1cbc0dbe06322a7e14c6b55ddad17c.svg",
-    "index.html": "/serach-github-users/index.html",
-    "main.3438a0b5.css.map": "/serach-github-users/static/css/main.3438a0b5.css.map",
-    "main.230eef36.js.map": "/serach-github-users/static/js/main.230eef36.js.map"
+    "main.css": "/search-github-users/static/css/main.3438a0b5.css",
+    "main.js": "/search-github-users/static/js/main.70e69e6d.js",
+    "static/media/preloader.gif": "/search-github-users/static/media/preloader.a6525050b19ec22d72cd.gif",
+    "static/media/login-img.svg": "/search-github-users/static/media/login-img.cd1cbc0dbe06322a7e14c6b55ddad17c.svg",
+    "index.html": "/search-github-users/index.html",
+    "main.3438a0b5.css.map": "/search-github-users/static/css/main.3438a0b5.css.map",
+    "main.70e69e6d.js.map": "/search-github-users/static/js/main.70e69e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.3438a0b5.css",
-    "static/js/main.230eef36.js"
+    "static/js/main.70e69e6d.js"
   ]
 }
